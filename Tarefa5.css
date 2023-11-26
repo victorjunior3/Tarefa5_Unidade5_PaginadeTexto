@@ -1,0 +1,44 @@
+body{
+    background-color: beige;
+}
+hr{
+    color: blue;
+    border-top: 5px solid #070202;
+
+}
+h1{
+    font-family: sans-serif;
+    color: #030005;
+    text-align: center;
+}
+div{
+    font-family: sans-serif;
+    color: #030005;
+    margin-left: 7%;
+    margin-right: 7%;
+    padding: 10px;
+    margin-top: 30px;
+    text-align: justify;
+    border-top-width: 2px;
+    border-top-style: solid;
+    border-left-width: 2px;
+    border-left-style: solid;
+    border-right-width: 2px;
+    border-right-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    
+}
+p{
+    text-indent: 50px;
+    line-height: 20pt;
+}
+footer{
+    font-size: small ;
+}
+
+
+
+
+
+
